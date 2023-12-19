@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Deditos de queso",
+        "descripcion": "5 deditos rellenos de queso hechos a base de harina de trigo.",
+        "imagen": "https://www.comedera.com/wp-content/uploads/2022/04/Dedos-de-mozzarella-shutterstock_275339186.jpg",
+        "precio": 6000,
+        "stock": 12,
+        "categoria": "entradas"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Wraps de pollo",
+        "descripcion": "Tortillas rellenas de pollo en tiras, verduras y salsas.",
+        "imagen": "https://i.blogs.es/7f8898/wraps-de-pollo/650_1200.jpg",
+        "precio": 12000,
+        "stock": 7,
+        "categoria": "entradas"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Pollo asado al horno",
+        "descripcion": "Un cuarto de pollo asado al horno, marinado en una deliciosa mezcla de especias y hierbas. se sirve con papas fritas doradas y una ensalada fresca.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdZgiybB5Cg1A1WAE_bdpqHCRD1_DNfysQ6wV6OaRG418RPzA",
+        "precio": 22000,
+        "stock": 2,
+        "categoria": "fuertes"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Bocadillo de carne asada",
+        "descripcion": "porcion de carne asada, acompañado de papas fritas, vegetales frescos.",
+        "imagen": "https://media.istockphoto.com/id/134169762/es/foto/filete-asado-con-papas-fritas.jpg?s=612x612&w=0&k=20&c=kmR2ZkTP9ksmuEoPes70y_pPOdXsooBBTz-VukxycIQ=",
+        "precio": 27000,
+        "stock": 3,
+        "categoria": "fuertes"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Cerezada",
+        "descripcion": "Bebida dulce a base de jugo de cereza y agua carbonatada.",
+        "imagen": "https://i.pinimg.com/originals/59/80/c7/5980c7c337ae7a8991d89e75cde82b45.jpg",
+        "precio": 8000,
+        "stock": 3,
+        "categoria": "bebidas"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Cerveza",
+        "descripcion": "Cerveza artesanal ideal para satisfacer los gustos de los comensales.",
+        "imagen": "https://cdn.pixabay.com/photo/2021/07/13/18/47/beer-6464284_1280.jpg",
+        "precio": 8500,
+        "stock": 23,
+        "categoria": "bebidas"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Torta de chocolate",
+        "descripcion": "postre de chocolate negro, relleno de fresas acompañado con salsa de nutella",
+        "imagen": "https://i.pinimg.com/originals/ec/5c/93/ec5c933eb65ee0b5ba4f8d9bf62cacd9.jpg",
+        "precio": 7000,
+        "stock": 5,
+        "categoria": "postres"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Sandwich relleno de fresas",
+        "descripcion": "postre de galleta con helado de vainilla y fresas relleno de almendras frutos secos y fresas",
+        "imagen": "https://mylatinatable.com/wp-content/uploads/2016/04/hojaldre-3-1024x675.jpg",
+        "precio": 7000,
+        "stock": 3,
+        "categoria": "postres"
+    }
+
+]
